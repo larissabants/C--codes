@@ -1,0 +1,15 @@
+C:\Users\Larissa\Desktop\Lista1\Code6\bin\Debug\net5.0\Code6.exe
+C:\Users\Larissa\Desktop\Lista1\Code6\bin\Debug\net5.0\Code6.deps.json
+C:\Users\Larissa\Desktop\Lista1\Code6\bin\Debug\net5.0\Code6.runtimeconfig.json
+C:\Users\Larissa\Desktop\Lista1\Code6\bin\Debug\net5.0\Code6.runtimeconfig.dev.json
+C:\Users\Larissa\Desktop\Lista1\Code6\bin\Debug\net5.0\Code6.dll
+C:\Users\Larissa\Desktop\Lista1\Code6\bin\Debug\net5.0\ref\Code6.dll
+C:\Users\Larissa\Desktop\Lista1\Code6\bin\Debug\net5.0\Code6.pdb
+C:\Users\Larissa\Desktop\Lista1\Code6\obj\Debug\net5.0\Code6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\Desktop\Lista1\Code6\obj\Debug\net5.0\Code6.AssemblyInfoInputs.cache
+C:\Users\Larissa\Desktop\Lista1\Code6\obj\Debug\net5.0\Code6.AssemblyInfo.cs
+C:\Users\Larissa\Desktop\Lista1\Code6\obj\Debug\net5.0\Code6.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Desktop\Lista1\Code6\obj\Debug\net5.0\Code6.dll
+C:\Users\Larissa\Desktop\Lista1\Code6\obj\Debug\net5.0\ref\Code6.dll
+C:\Users\Larissa\Desktop\Lista1\Code6\obj\Debug\net5.0\Code6.pdb
+C:\Users\Larissa\Desktop\Lista1\Code6\obj\Debug\net5.0\Code6.genruntimeconfig.cache
