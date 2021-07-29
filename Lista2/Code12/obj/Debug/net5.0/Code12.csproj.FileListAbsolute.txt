@@ -1,0 +1,15 @@
+C:\Users\Larissa\Desktop\Lista2\Code12\bin\Debug\net5.0\Code12.exe
+C:\Users\Larissa\Desktop\Lista2\Code12\bin\Debug\net5.0\Code12.deps.json
+C:\Users\Larissa\Desktop\Lista2\Code12\bin\Debug\net5.0\Code12.runtimeconfig.json
+C:\Users\Larissa\Desktop\Lista2\Code12\bin\Debug\net5.0\Code12.runtimeconfig.dev.json
+C:\Users\Larissa\Desktop\Lista2\Code12\bin\Debug\net5.0\Code12.dll
+C:\Users\Larissa\Desktop\Lista2\Code12\bin\Debug\net5.0\ref\Code12.dll
+C:\Users\Larissa\Desktop\Lista2\Code12\bin\Debug\net5.0\Code12.pdb
+C:\Users\Larissa\Desktop\Lista2\Code12\obj\Debug\net5.0\Code12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\Desktop\Lista2\Code12\obj\Debug\net5.0\Code12.AssemblyInfoInputs.cache
+C:\Users\Larissa\Desktop\Lista2\Code12\obj\Debug\net5.0\Code12.AssemblyInfo.cs
+C:\Users\Larissa\Desktop\Lista2\Code12\obj\Debug\net5.0\Code12.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Desktop\Lista2\Code12\obj\Debug\net5.0\Code12.dll
+C:\Users\Larissa\Desktop\Lista2\Code12\obj\Debug\net5.0\ref\Code12.dll
+C:\Users\Larissa\Desktop\Lista2\Code12\obj\Debug\net5.0\Code12.pdb
+C:\Users\Larissa\Desktop\Lista2\Code12\obj\Debug\net5.0\Code12.genruntimeconfig.cache

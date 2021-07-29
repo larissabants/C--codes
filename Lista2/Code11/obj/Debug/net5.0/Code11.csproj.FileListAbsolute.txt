@@ -1,0 +1,15 @@
+C:\Users\Larissa\Desktop\Lista2\Code11\bin\Debug\net5.0\Code11.exe
+C:\Users\Larissa\Desktop\Lista2\Code11\bin\Debug\net5.0\Code11.deps.json
+C:\Users\Larissa\Desktop\Lista2\Code11\bin\Debug\net5.0\Code11.runtimeconfig.json
+C:\Users\Larissa\Desktop\Lista2\Code11\bin\Debug\net5.0\Code11.runtimeconfig.dev.json
+C:\Users\Larissa\Desktop\Lista2\Code11\bin\Debug\net5.0\Code11.dll
+C:\Users\Larissa\Desktop\Lista2\Code11\bin\Debug\net5.0\ref\Code11.dll
+C:\Users\Larissa\Desktop\Lista2\Code11\bin\Debug\net5.0\Code11.pdb
+C:\Users\Larissa\Desktop\Lista2\Code11\obj\Debug\net5.0\Code11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\Desktop\Lista2\Code11\obj\Debug\net5.0\Code11.AssemblyInfoInputs.cache
+C:\Users\Larissa\Desktop\Lista2\Code11\obj\Debug\net5.0\Code11.AssemblyInfo.cs
+C:\Users\Larissa\Desktop\Lista2\Code11\obj\Debug\net5.0\Code11.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Desktop\Lista2\Code11\obj\Debug\net5.0\Code11.dll
+C:\Users\Larissa\Desktop\Lista2\Code11\obj\Debug\net5.0\ref\Code11.dll
+C:\Users\Larissa\Desktop\Lista2\Code11\obj\Debug\net5.0\Code11.pdb
+C:\Users\Larissa\Desktop\Lista2\Code11\obj\Debug\net5.0\Code11.genruntimeconfig.cache
