@@ -1,0 +1,15 @@
+C:\Users\Larissa\Desktop\Lista2\Code15\bin\Debug\net5.0\Code15.exe
+C:\Users\Larissa\Desktop\Lista2\Code15\bin\Debug\net5.0\Code15.deps.json
+C:\Users\Larissa\Desktop\Lista2\Code15\bin\Debug\net5.0\Code15.runtimeconfig.json
+C:\Users\Larissa\Desktop\Lista2\Code15\bin\Debug\net5.0\Code15.runtimeconfig.dev.json
+C:\Users\Larissa\Desktop\Lista2\Code15\bin\Debug\net5.0\Code15.dll
+C:\Users\Larissa\Desktop\Lista2\Code15\bin\Debug\net5.0\ref\Code15.dll
+C:\Users\Larissa\Desktop\Lista2\Code15\bin\Debug\net5.0\Code15.pdb
+C:\Users\Larissa\Desktop\Lista2\Code15\obj\Debug\net5.0\Code15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\Desktop\Lista2\Code15\obj\Debug\net5.0\Code15.AssemblyInfoInputs.cache
+C:\Users\Larissa\Desktop\Lista2\Code15\obj\Debug\net5.0\Code15.AssemblyInfo.cs
+C:\Users\Larissa\Desktop\Lista2\Code15\obj\Debug\net5.0\Code15.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Desktop\Lista2\Code15\obj\Debug\net5.0\Code15.dll
+C:\Users\Larissa\Desktop\Lista2\Code15\obj\Debug\net5.0\ref\Code15.dll
+C:\Users\Larissa\Desktop\Lista2\Code15\obj\Debug\net5.0\Code15.pdb
+C:\Users\Larissa\Desktop\Lista2\Code15\obj\Debug\net5.0\Code15.genruntimeconfig.cache
