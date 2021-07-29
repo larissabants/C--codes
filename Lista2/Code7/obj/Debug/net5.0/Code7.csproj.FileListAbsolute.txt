@@ -1,0 +1,15 @@
+C:\Users\Larissa\Desktop\Lista2\Code7\bin\Debug\net5.0\Code7.exe
+C:\Users\Larissa\Desktop\Lista2\Code7\bin\Debug\net5.0\Code7.deps.json
+C:\Users\Larissa\Desktop\Lista2\Code7\bin\Debug\net5.0\Code7.runtimeconfig.json
+C:\Users\Larissa\Desktop\Lista2\Code7\bin\Debug\net5.0\Code7.runtimeconfig.dev.json
+C:\Users\Larissa\Desktop\Lista2\Code7\bin\Debug\net5.0\Code7.dll
+C:\Users\Larissa\Desktop\Lista2\Code7\bin\Debug\net5.0\ref\Code7.dll
+C:\Users\Larissa\Desktop\Lista2\Code7\bin\Debug\net5.0\Code7.pdb
+C:\Users\Larissa\Desktop\Lista2\Code7\obj\Debug\net5.0\Code7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\Desktop\Lista2\Code7\obj\Debug\net5.0\Code7.AssemblyInfoInputs.cache
+C:\Users\Larissa\Desktop\Lista2\Code7\obj\Debug\net5.0\Code7.AssemblyInfo.cs
+C:\Users\Larissa\Desktop\Lista2\Code7\obj\Debug\net5.0\Code7.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Desktop\Lista2\Code7\obj\Debug\net5.0\Code7.dll
+C:\Users\Larissa\Desktop\Lista2\Code7\obj\Debug\net5.0\ref\Code7.dll
+C:\Users\Larissa\Desktop\Lista2\Code7\obj\Debug\net5.0\Code7.pdb
+C:\Users\Larissa\Desktop\Lista2\Code7\obj\Debug\net5.0\Code7.genruntimeconfig.cache

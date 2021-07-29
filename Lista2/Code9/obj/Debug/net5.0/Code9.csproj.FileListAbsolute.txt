@@ -1,0 +1,15 @@
+C:\Users\Larissa\Desktop\Lista2\Code9\bin\Debug\net5.0\Code9.exe
+C:\Users\Larissa\Desktop\Lista2\Code9\bin\Debug\net5.0\Code9.deps.json
+C:\Users\Larissa\Desktop\Lista2\Code9\bin\Debug\net5.0\Code9.runtimeconfig.json
+C:\Users\Larissa\Desktop\Lista2\Code9\bin\Debug\net5.0\Code9.runtimeconfig.dev.json
+C:\Users\Larissa\Desktop\Lista2\Code9\bin\Debug\net5.0\Code9.dll
+C:\Users\Larissa\Desktop\Lista2\Code9\bin\Debug\net5.0\ref\Code9.dll
+C:\Users\Larissa\Desktop\Lista2\Code9\bin\Debug\net5.0\Code9.pdb
+C:\Users\Larissa\Desktop\Lista2\Code9\obj\Debug\net5.0\Code9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\Desktop\Lista2\Code9\obj\Debug\net5.0\Code9.AssemblyInfoInputs.cache
+C:\Users\Larissa\Desktop\Lista2\Code9\obj\Debug\net5.0\Code9.AssemblyInfo.cs
+C:\Users\Larissa\Desktop\Lista2\Code9\obj\Debug\net5.0\Code9.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Desktop\Lista2\Code9\obj\Debug\net5.0\Code9.dll
+C:\Users\Larissa\Desktop\Lista2\Code9\obj\Debug\net5.0\ref\Code9.dll
+C:\Users\Larissa\Desktop\Lista2\Code9\obj\Debug\net5.0\Code9.pdb
+C:\Users\Larissa\Desktop\Lista2\Code9\obj\Debug\net5.0\Code9.genruntimeconfig.cache
