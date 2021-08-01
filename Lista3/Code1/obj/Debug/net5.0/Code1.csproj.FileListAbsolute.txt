@@ -1,0 +1,16 @@
+C:\Users\Larissa\Desktop\Lista3\Code1\bin\Debug\net5.0\Code1.exe
+C:\Users\Larissa\Desktop\Lista3\Code1\bin\Debug\net5.0\Code1.deps.json
+C:\Users\Larissa\Desktop\Lista3\Code1\bin\Debug\net5.0\Code1.runtimeconfig.json
+C:\Users\Larissa\Desktop\Lista3\Code1\bin\Debug\net5.0\Code1.runtimeconfig.dev.json
+C:\Users\Larissa\Desktop\Lista3\Code1\bin\Debug\net5.0\Code1.dll
+C:\Users\Larissa\Desktop\Lista3\Code1\bin\Debug\net5.0\ref\Code1.dll
+C:\Users\Larissa\Desktop\Lista3\Code1\bin\Debug\net5.0\Code1.pdb
+C:\Users\Larissa\Desktop\Lista3\Code1\obj\Debug\net5.0\Code1.csproj.AssemblyReference.cache
+C:\Users\Larissa\Desktop\Lista3\Code1\obj\Debug\net5.0\Code1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\Desktop\Lista3\Code1\obj\Debug\net5.0\Code1.AssemblyInfoInputs.cache
+C:\Users\Larissa\Desktop\Lista3\Code1\obj\Debug\net5.0\Code1.AssemblyInfo.cs
+C:\Users\Larissa\Desktop\Lista3\Code1\obj\Debug\net5.0\Code1.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Desktop\Lista3\Code1\obj\Debug\net5.0\Code1.dll
+C:\Users\Larissa\Desktop\Lista3\Code1\obj\Debug\net5.0\ref\Code1.dll
+C:\Users\Larissa\Desktop\Lista3\Code1\obj\Debug\net5.0\Code1.pdb
+C:\Users\Larissa\Desktop\Lista3\Code1\obj\Debug\net5.0\Code1.genruntimeconfig.cache
