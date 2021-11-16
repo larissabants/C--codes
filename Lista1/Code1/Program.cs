@@ -2,8 +2,9 @@
 
 namespace Code1
 {
-    class Program
+    class Program 
     {
+        
         static void Main(string[] args)
         {
             int num;
